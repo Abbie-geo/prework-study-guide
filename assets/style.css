@@ -10,7 +10,9 @@ footer {
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-footer {font-size: 8px;}
+footer p {
+    font-size: 14px;
+}
 /* this doesn't seem to apply? why not?*/
 h1,
 h2 {
@@ -43,5 +45,5 @@ p {
     width: 80%;
     margin: 40px auto;
     border: 5px solid gray;
-    box-shadow: 5px 10px #888;
+    box-shadow: 5px 10px 10px #888;
     }
